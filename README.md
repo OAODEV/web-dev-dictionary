@@ -1,4 +1,4 @@
-# web-dev-dictionary
+# Web Development Dictionary
 Formalization of terms used in web development at OAO. 
 
 An attempt to create and document a [Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html) for web service development.
