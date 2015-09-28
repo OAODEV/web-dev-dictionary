@@ -1,3 +1,9 @@
+#### config
+A set of key value pairs.
+
+#### environment
+Compute, network and persistence resources that host and provide access to services.
+
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
 
@@ -8,7 +14,8 @@ To make a service available to a consumer.
 An image and some configuration. Runnable for a specific purpose (quality assurence, staging, production).
 
 #### release process
-The process of packaging, running and pushing a service to a consumer.
+The process of configuring and running a service in an environment.
+```image -> config -> Environment -> Service```
 
 #### service
 A system supplying a need.
