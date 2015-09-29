@@ -18,7 +18,7 @@ An image and some configuration. Runnable for a specific purpose (quality assure
 
 #### release process
 The process of configuring and running a service in an environment.
-```image -> config -> Environment -> Service```
+```image -> config -> environment -> service```
 
 #### service
 A system supplying a need.
