@@ -1,8 +1,11 @@
+#### application
+A stand alone service whose consumer is a human. Excel and Facebook are applications.
+
 #### config
 A set of key value pairs.
 
 #### environment
-Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, specific files and/or environment variables.
+Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, specific files and/or environment variables. The host for an application.
 
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
