@@ -2,7 +2,7 @@
 A set of key value pairs.
 
 #### environment
-Compute, network and persistence resources that host and provide access to services.
+Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, specific files and/or environment variables.
 
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
