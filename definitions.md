@@ -1,11 +1,14 @@
 #### application
 A stand alone service whose consumer is a human. Excel and Facebook are applications.
 
+#### application release
+A set of release packages that when deployed together in an environment work together to produce an application.
+
 #### config
 A set of key value pairs.
 
 #### environment
-Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, specific files and/or environment variables. The host for an application.
+Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, running services, specific files and/or environment variables. The host for a service or application.
 
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
