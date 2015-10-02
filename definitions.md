@@ -1,14 +1,17 @@
 #### application
-A stand alone service whose consumer is a human. Excel and Facebook are applications.
+A stand alone service whose consumer is a human. Excel and Facebook are applications. The operation of an experience.
 
 #### application release
-A set of service releases that when deployed together in an environment work together to produce an application. A specific version of an application.
+A set of service releases that when deployed together in an environment work together to produce an application. A specific version of an application. The implementation of an experience.
 
 #### config
 A set of key value pairs.
 
 #### environment
 Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, running services, specific files and/or environment variables. The host for a service or application.
+
+#### experience
+One of possibly many ways an application could behave. Often used when discussing possible changes to and an experemental experience would be useful to analyze. Used in the design and analysis context and is implemented in the development and operation context as an application release.
 
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
