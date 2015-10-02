@@ -2,7 +2,7 @@
 A stand alone service whose consumer is a human. Excel and Facebook are applications.
 
 #### application release
-A set of release packages that when deployed together in an environment work together to produce an application.
+A set of service releases that when deployed together in an environment work together to produce an application.
 
 #### config
 A set of key value pairs.
@@ -16,11 +16,11 @@ The result of a build process. Software that is configurable, testable and runna
 #### push
 To make a service available to a consumer.
 
-#### release package
+#### service release
 An image and some configuration. Runnable for a specific purpose (quality assurence, staging, production).
 
 #### release process
-The process of configuring and running a service in an environment.
+The process of configuring, running and updating a service or application in an environment.
 ```image -> config -> environment -> service```
 
 #### service
