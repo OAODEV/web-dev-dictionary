@@ -13,14 +13,14 @@ Compute, network and persistence resources that host and provide access to servi
 #### experience
 One of possibly many ways an application could behave. Often used when discussing possible changes to and an experemental experience would be useful to analyze. Used in the design and analysis context and is implemented in the development and operation context as an application release.
 
+#### identity
+A putative entity we associate with a series of causally related values (states) over time.
+
 #### image
 The result of a build process. Software that is configurable, testable and runnable.
 
 #### push
 To make a service available to a consumer.
-
-#### service release
-An image and some configuration. A specific runnable and configured version of a service.
 
 #### release process
 The process of configuring, running and updating a service or application in an environment.
@@ -28,3 +28,15 @@ The process of configuring, running and updating a service or application in an 
 
 #### service
 A system supplying a need.
+
+#### service release
+An image and some configuration. A specific runnable and configured version of a service.
+
+#### state
+Value of an identity at a moment in time.
+
+#### time
+relative before/after ordering of causal values.
+
+#### value
+An immutable magnitude, quantity, number... or immutable composite therof.
