@@ -7,6 +7,9 @@ A set of service releases that when deployed together in an environment work tog
 #### config
 A set of key value pairs.
 
+#### deployment
+A service release that has been pushed to an environment
+
 #### environment
 Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, running services, specific files and/or environment variables. The host for a service or application.
 
