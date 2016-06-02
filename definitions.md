@@ -5,7 +5,7 @@ A stand alone service whose consumer is a human. Excel and Facebook are applicat
 A set of service releases that when deployed together in an environment work together to produce an application. A specific version of an application. The implementation of an experience.
 
 #### config
-A set of key value pairs.
+A set of keys with a value for each.
 
 #### environment
 Compute, network and persistence resources that host and provide access to services along with a specific set of dependencies in the form of operating system, installed software, running services, specific files and/or environment variables. The host for a service or application.
